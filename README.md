@@ -14,6 +14,8 @@
 
 # Presentation
 
+Note: there is still room for improvement in terms of implementation. Nevertheless, it can be a starting point for future challenges.
+
 Refer to the [Presentation.ipynb](Presentation.ipynb) notebook for a theoretical background and derivation of the Hopping gate and Onsite gate using the Jordan–Wigner mapping and the Suzuki-Trotter formula. Gradient-free and gradient-based optimizations were compared and the circuit ansatz was implemented using both [Qiskit](https://qiskit.org/) and [QURI Parts](https://quri-parts.qunasys.com/).
 
 # Project Description
